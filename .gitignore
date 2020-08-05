@@ -3,3 +3,4 @@
 /checkpoints/*
 /max_fit_models/*
 /Tetrominoes_env
+/Tetris/__pycache__
