@@ -7,6 +7,10 @@
 This project aims at playing the game of Tetris using Genetic Algorithm. This project is developed over the Tetris game version developed by me, refer [here](https://github.com/shashank3199/Tetris). Each line of code is accompanied by a comment to explain it better.<br><br>
 The feature of this project that makes it unique of all the other existing similar projects, is it's ability to use the advantage that humans have against computers w.r.t. the game of Tetris, i.e. the ability to view the next piece and take the best possible decision based on that. 
 
+## Game  -
+
+![Game Image](./.images/Screencast.gif)
+
 ### Files in the Repository - 
 The files in the repository are :
 
@@ -69,10 +73,6 @@ I was able to achieve the threshold by the end of second generation.
 
 #### .images
 This directory contains the images for the game icon and media for the README File.
-
-## Game  -
-
-![Game Image](./.images/Screencast.gif)
 
 ## Bibliography
 - <b>Game Icon:</b> Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticons.com](https://www.flaticon.com/).
